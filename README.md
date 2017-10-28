@@ -3,5 +3,5 @@
  XBaND-2-Client is a revival and port of XBaND to the pc using VisualBasic 2017, and a few emulators like ZSNES to emulate the experince.
  You can visit the website of the revival at http://xband.freeiz.com/
  Or you can visit our discord at	https://discord.me/xband
-#Note:
+# Note:
 the XBaND open source client WILL crash as you will need to setup the settings.
