@@ -1,0 +1,40 @@
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\Xband 2.exe
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\Xband 2.pdb
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\Xband 2.xml
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband_2.frmMain.resources
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband_2.Resources.resources
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband 2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband 2.exe
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband 2.xml
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband 2.pdb
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Xband 2.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Debug\Interop.NATUPNPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Debug\Interop.NATUPNPLib.dll
+C:\DOS\Xband 2\Xband 2\obj\Debug\Interop.NATUPNPLib.dll
+C:\DOS\Xband 2\Xband 2\obj\Debug\Interop.WMPLib.dll
+C:\DOS\Xband 2\Xband 2\obj\Debug\AxInterop.WMPLib.dll
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband 2.vbproj.ResolveComReference.cache
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband 2.exe
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband 2.xml
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband 2.pdb
+C:\DOS\Xband 2\Xband 2\bin\Debug\Xband 2.exe
+C:\DOS\Xband 2\Xband 2\bin\Debug\Xband 2.pdb
+C:\DOS\Xband 2\Xband 2\bin\Debug\Xband 2.xml
+C:\DOS\Xband 2\Xband 2\bin\Debug\Interop.NATUPNPLib.dll
+C:\DOS\Xband 2\Xband 2\bin\Debug\Interop.WMPLib.dll
+C:\DOS\Xband 2\Xband 2\bin\Debug\AxInterop.WMPLib.dll
+C:\DOS\Xband 2\Xband 2\obj\Debug\ResolveAssemblyReference.cache
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband_2.frmMain.resources
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband_2.Resources.resources
+C:\DOS\Xband 2\Xband 2\obj\Debug\Xband 2.vbproj.GenerateResource.Cache
+C:\DOS\Xband 2\Xband 2\bin\Release\Xband 2.exe
+C:\DOS\Xband 2\Xband 2\bin\Release\Xband 2.pdb
+C:\DOS\Xband 2\Xband 2\bin\Release\Xband 2.xml
+C:\DOS\Xband 2\Xband 2\bin\Release\Interop.NATUPNPLib.dll
+C:\DOS\Xband 2\Xband 2\bin\Release\Interop.WMPLib.dll
+C:\DOS\Xband 2\Xband 2\bin\Release\AxInterop.WMPLib.dll

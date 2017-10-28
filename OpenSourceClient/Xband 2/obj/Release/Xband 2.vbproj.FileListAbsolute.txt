@@ -1,0 +1,36 @@
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband 2.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband_2.frmMain.resources
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband_2.Resources.resources
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband 2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\Xband 2.exe
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband 2.exe
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband 2.xml
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Xband 2.pdb
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\Xband 2.pdb
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\Xband 2.xml
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\bin\Release\Interop.NATUPNPLib.dll
+C:\Documents and Settings\Kathaleen\My Documents\Visual Studio 2008\Projects\Xband 2\Xband 2\obj\Release\Interop.NATUPNPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\Xband 2.exe
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\Xband 2.pdb
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\Xband 2.xml
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\Interop.NATUPNPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\Interop.WMPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Interop.NATUPNPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Interop.WMPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.vbproj.ResolveComReference.cache
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband_2.frmMain.resources
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband_2.Resources.resources
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.vbproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.vbproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.exe
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.xml
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband 2.pdb
+C:\Users\Jesus\Desktop\OpenXb2\VB 2008\XBand 2 Client\Xband 2\Xband 2\obj\Release\Xband_2.SplashScreen1.resources
